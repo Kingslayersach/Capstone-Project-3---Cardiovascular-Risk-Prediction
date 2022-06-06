@@ -1,1 +1,1 @@
-# Capstone-Project-3---Cardiovascular-Risk-Prediction
+# Capstone-Project 3-Cardiovascular-Risk-Prediction
